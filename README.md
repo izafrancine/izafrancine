@@ -30,4 +30,4 @@ Olá! Sou Iza, graduanda em Ciência da Computação na Universidade Federal do 
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TROQUE-PELO-SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iza-francine)
